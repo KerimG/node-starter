@@ -10,9 +10,9 @@
   "author": "Kerim Güney <kerim@gueney.io> (https://gueney.io)",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.11.1",
+    "eslint": "^5.15.1",
     "jest": "^23.6.0",
-    "nodemon": "^1.18.9",
-    "prettier": "^1.15.3"
+    "nodemon": "^1.18.10",
+    "prettier": "^1.16.4"
   }
 }
