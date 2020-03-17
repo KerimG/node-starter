@@ -4,7 +4,8 @@
   "description": "A node starter project with common packages pre-installed.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch --colors tests/*"
+    "test": "jest --watch --colors tests/*",
+    "dev": "nodemon src"
   },
   "keywords": [],
   "author": "Kerim Güney <kerim@gueney.io> (https://gueney.io)",
